@@ -7,22 +7,27 @@ git remote add "remote Key" (add remote key)
 git push origin master (push in master)
 mkdir cglearning (making new local directory)
 cd cglearning (Change Directory)
-git init(initializing directory)
+git init(initializing local git directory)
 git add filename (add file to staging area)
-git status 
-git commit -m'Any Message/information' 
+git status (check status of eorking tree)
+git commit -m'Any Message/information' (commit changes in index)
 git push (push in remote server)
 git difftool Head
+git pull (Pull Latest from remote repository)
+git clone (clone Repository into new Directory)
+touch <filename> (create empty new file)
+git add . (to add all files at same time)
 
+New Branch Create: git checkout <new branch name>
+Switch branch: git checkout master
+Merge Branch: git merge <new branch name>
+commit prompt editor press "i" add commit then press "esc":wq to close editor
 
 Different Stages :-
 1.Working Directory
 2.Staging area.
 3.Repositoy
 4.Remote Repository
-
-
-
 
 Create a file and then push it in remote server.
 Step 1 Make a new text(any type) file 

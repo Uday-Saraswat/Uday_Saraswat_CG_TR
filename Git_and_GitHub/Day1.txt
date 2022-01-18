@@ -17,6 +17,8 @@ git pull (Pull Latest from remote repository)
 git clone (clone Repository into new Directory)
 touch <filename> (create empty new file)
 git add . (to add all files at same time)
+git checkout .. (to restore previous commit)
+
 
 New Branch Create: git checkout <new branch name>
 Switch branch: git checkout master

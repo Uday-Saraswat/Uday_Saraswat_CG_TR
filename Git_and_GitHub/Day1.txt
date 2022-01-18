@@ -1,1 +1,54 @@
-My name is Uday Saraswat 
+Today I have learnt about many command in Git and GitHub and also Successfully run all the commands mentioned below.and also i have attached screenshot of my code 
+
+git --version(version detail)
+git config --help (help Guide)
+git config --global user.username Uday1207 (to add our github profile)
+git remote add "remote Key" (add remote key)
+git push origin master (push in master)
+mkdir cglearning (making new local directory)
+cd cglearning (Change Directory)
+git init(initializing directory)
+git add filename (add file to staging area)
+git status 
+git commit -m'Any Message/information' 
+git push (push in remote server)
+git difftool Head
+
+
+Different Stages :-
+1.Working Directory
+2.Staging area.
+3.Repositoy
+4.Remote Repository
+
+
+
+
+Create a file and then push it in remote server.
+Step 1 Make a new text(any type) file 
+Step 2 Add data you want to add in that file 
+Step 3 Now we have to check the status using git status 
+Step 4 After that we have to run command "git add filename" this will add our file in staging area
+Step 5 after that we have to commit message related to that file using thi command " git commit -m"Enter Inormation related to the file".
+Step 6 agter commit we have to Push that file in remote server i.e on github. for that we have to use this command "git push".
+
+
+I have got many error while pushing to remote server 
+i.e remote: Permission to Uday1207/Uday_Saraswat-CG.git denied to Uday-Saraswat. fatal: unable to access 'https://github.com/Uday1207/Uday_Saraswat-CG.git/': The requested URL returned error: 403
+
+solution :- i have generate a new SSH key for my computer to read/ edit file of repository using public key of github for my computer 
+
+Cloning	a repository from git hub:-
+
+Step 1 : git clone https://github.com/Uday-Saraswat/Uday_Saraswat_CG_TR.git
+Step 2 : you can see repository cloned to our computer 
+Step 3 : Now you can update/add/delete files according to your need 
+Step 4 : now you have to follow same process git status/git commit/git push to push your updated work in repository
+
+
+
+
+ 
+
+
+

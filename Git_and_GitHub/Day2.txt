@@ -1,13 +1,13 @@
 Day 2
 
-.i have creted a new repo in my local directory and learn about branch 
-.Create , Work on a delete branch
-.Head Pointers
-.Detached Head
-.merge (Fast Forward Way , 3-Ways, Handle Conflicts
-.Git stash 
-.git rebase \ Dont ue rebase one the shared feature branches only do on that branch on which only you are working.
-.Git Merge VS Git Rebases
+# i have creted a new repo in my local directory and learn about branch 
+# Create , Work on a delete branch
+# Head Pointers
+# Detached Head
+# merge (Fast Forward Way , 3-Ways, Handle Conflicts
+# Git stash 
+# git rebase \ Dont ue rebase one the shared feature branches only do on that branch on which only you are working.
+# Git Merge VS Git Rebases
 -->git merge :- 
    (i) Is non Destructive operation
    (ii) Existing brranches are not changed in any way.
@@ -18,9 +18,9 @@ Day 2
    (ii) Rewrites the project hitory
    (iii) We get much Cleaner and linear project hitory.
 
-.Forks and PULL Request.
+# Forks and PULL Request.
 
-.Commands that I have learnt today and  run succesfully are :
+# Commands that I have learnt today and  run succesfully are :
 
 1. vi <file name> \\ Edit file in editor.
 2. cp <file name> <new file name> \\Copy old file to new file. 
@@ -42,6 +42,13 @@ Day 2
 18.git rebase master 
 
 
-.Visual StudioCode || HOW to use Git and GitHub?
-.How to add github project to eclipse?
+# Visual StudioCode || HOW to use Git and GitHub?
+# How to add github project to eclipse?
+
+#Top  Tools for Git and GitHub.(Doubt)
+1.hub.
+2.Husky.
+3.commitizen.
+4.gitignore.io
+
 

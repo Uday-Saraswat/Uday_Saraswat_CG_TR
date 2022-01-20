@@ -1,5 +1,4 @@
-This is Section 1 of Git and Github Assignment.and added html-assignmentc
-ascascas
-cascs
-cacasc
-casca
+Added css-assignment 
+and html-assignment
+Merge main and css-assignment 
+conflicts

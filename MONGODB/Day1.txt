@@ -1,0 +1,22 @@
+mongoDB :- it comes from the english name "Humongous".Because it can store lots and lots of data.
+
+# mongodb.com.
+# signup/download (altas).
+# connect/ made cluster.
+# add path to environment variable.
+# copy run connection string. 
+# Run in CMD and enter password.
+
+# COMMANDS :- 
+
+* show dbs 
+* use first-test
+* db.users
+* db.users.insertOne({},{$set{}})/insertmany()
+* show collection
+* db.users.find()
+* db.users.update()
+* db.users.deleteOne({})
+
+# Connect with the mongoDB shell
+# Connect using mongoBD compass 
